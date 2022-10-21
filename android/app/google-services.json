@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "70931587726",
+    "project_id": "jop-app-93f35",
+    "storage_bucket": "jop-app-93f35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70931587726:android:c84aa01ceb6ba8d2b79fdf",
+        "android_client_info": {
+          "package_name": "epics.job_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70931587726-gjsfc8q5s9ra1i0n39itqg64t8oo2kll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAv3fLIMqYQYPGoigMLtqjEPQJjymebPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70931587726-gjsfc8q5s9ra1i0n39itqg64t8oo2kll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
